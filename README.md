@@ -35,8 +35,7 @@ The reporting solution combines SQL analysis, validation controls, Excel reporti
 
 ## Technologies Used
 
-- Google BigQuery
-- SQL
+- Google BigQuery SQL
 - Microsoft Excel
 - Power BI
 - GitHub
