@@ -25,14 +25,6 @@ The reporting solution combines SQL analysis, validation controls, Excel reporti
 
 ---
 
-## Dashboard Access
-
-### Power BI Dashboard
-
-[View Interactive Power BI Dashboard](https://frelotraders-my.sharepoint.com/:u:/g/personal/joylorna_frelotraders_onmicrosoft_com/IQDe2FyYDzlGTbQvfgDxuJauAU6osoT5AIxypR38TdR0Svc?e=X1qRvR)
-
----
-
 ## Technologies Used
 
 - Google BigQuery SQL
